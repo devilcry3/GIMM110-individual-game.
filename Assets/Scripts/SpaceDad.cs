@@ -38,5 +38,3 @@ public class SpaceDad : MonoBehaviour
 
 }
 
-//Adding for GitHub learning and tutorial
-
